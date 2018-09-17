@@ -5,6 +5,6 @@ Work in Progress.
 
 Will soon update 
 
-1.the code, 
+1.the code, \n
 2.add sample CSV files which will be the input for the performance testing, and 
 3.add JMeter settings for doing the actual performance benchmarking
